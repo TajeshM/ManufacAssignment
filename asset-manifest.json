@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManufacAssignment/static/css/main.36b2fa2d.css",
+    "main.js": "/ManufacAssignment/static/js/main.04104a3d.js",
+    "index.html": "/ManufacAssignment/index.html",
+    "main.36b2fa2d.css.map": "/ManufacAssignment/static/css/main.36b2fa2d.css.map",
+    "main.04104a3d.js.map": "/ManufacAssignment/static/js/main.04104a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b2fa2d.css",
+    "static/js/main.04104a3d.js"
+  ]
+}
