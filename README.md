@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### SCATTER PLOT FOR THE WINE-DATA.JSON FILE
+
+image is availabe in this folder with name ScatterPlot.jpg
+
+The plot is the analytics between hue and color intensity and when you hover on each plot you can view its hue and color intensity values of that plot as X and Y co-ordinates.
+
+### BAR CHART FOR THE WINE-DATA.JSON FILE
+
+image is availabe in this folder with name BarChart.jpg
+
+The chart is the analytics between Alcohol and average of malic acid . when you hover on each bar you can view its average malic acid value of that class .
+
 ## Available Scripts
 
 In the project directory, you can run:
